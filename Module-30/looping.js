@@ -1,5 +1,5 @@
-// for of use on array 
-// for in use on Object 
+// for of use an array 
+// for in use an Object 
 const numbers = [3, 4, 6, 7, 8];
 // for(let i = 0; i < numbers.length; i++){}
 // while
