@@ -29,6 +29,3 @@ console.log(affordable);
 const reduceAmount = products.reduce((pre, curr) => pre + curr.price, 0);
 console.log(reduceAmount);
 
-
-
-
